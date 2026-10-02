@@ -1,0 +1,32 @@
+{
+    "npc1": [
+        "Use arrow key \"up\" to jump!",
+        "What? I don't have more lines."
+    ],
+
+    "npc2":[
+        "Jump over an enemy to make points!",
+        "I like french potatoes!"
+        ],
+    "npc3": [
+        "Beware of flying enemies!",
+        "There are 10 of them, can you catch them all?"
+    ],
+    "npc4": [
+        "Collect coins to make points!",
+        "There are 77 of them!"
+    ],
+    "npc5": [
+        "Reach the top to win!",
+        "Did you know CS50 rocks?"
+    ],
+    "npc6": [
+        "Oh! Look what you've found...",
+        "An easter egg!",
+        "Pop corn!"
+    ],
+    "npc7": [
+        "Oh hi! I am a NPC!",
+        "I guess you want to reach top"
+    ]
+}

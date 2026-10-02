@@ -1,0 +1,77 @@
+{
+    "activeFile": "tilemapLevel1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "playerTileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "punkcity-tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "punkcityTileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilemapLevel1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 705.3333333333333,
+                "y": 104
+            }
+        },
+        "tilemapLevel1.tmx#player": {
+            "scaleInDock": 1
+        },
+        "tilemapLevel1.tmx#punkcity": {
+            "scaleInDock": 2
+        },
+        "tilemapmolipunk.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 244.99999999999997,
+                "y": 220
+            }
+        },
+        "tilemapmolipunk.tmx#punkcity": {
+            "scaleInDock": 2
+        }
+    },
+    "last.exportedFilePath": "C:/Users/User/Desktop/Phaser game/molipollo/public/assets",
+    "last.imagePath": "C:/Users/User/Desktop/Phaser game/molipollo/public/assets",
+    "map.height": 20,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 80,
+    "openFiles": [
+        "punkcity-tileset.tsx",
+        "tilemapLevel1.tmx",
+        "playerTileset.tsx"
+    ],
+    "project": "molipollothegame.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "punkcity-tileset.tsx",
+        "playerTileset.tsx",
+        "tilemapLevel1.tmx",
+        "punkcityTileset.tsx",
+        "tilemapmolipunk.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

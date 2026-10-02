@@ -1,0 +1,29 @@
+{
+    "activeFile": "hudtest.tsx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "HUD tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "hudtest.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        }
+    },
+    "last.imagePath": "C:/Users/User/Downloads/Pixel UI pack 1",
+    "openFiles": [
+        "hudtest.tsx"
+    ],
+    "project": "hudtest.tiled-project",
+    "recentFiles": [
+        "hudtest.tsx",
+        "HUD tileset.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

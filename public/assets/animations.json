@@ -1,0 +1,212 @@
+{
+    "anims": [
+        {
+            "key": "npc_turn",
+            "type": "frame",
+            "frames": [
+                { "key": "npcSprite1", "frame": 0 },
+                { "key": "npcSprite1", "frame": 1 }
+            ], 
+            "frameRate": 4,
+            "repeat": -1
+        },
+        {
+            "key": "npc_walk",
+            "type": "frame",
+            "frames": [
+                { "key": "npcSprite1", "frame": 8 },
+                { "key": "npcSprite1", "frame": 9 },
+                { "key": "npcSprite1", "frame": 10 },
+                { "key": "npcSprite1", "frame": 11 }
+            ], 
+            "frameRate": 4,
+            "repeat": -1
+        },
+        {
+            "key": "turn",
+            "type": "frame",
+            "frames": [
+                { "key": "PlayerSprite", "frame": 0 },
+                { "key": "PlayerSprite", "frame": 1 },
+                { "key": "PlayerSprite", "frame": 2 }
+            ], 
+            "frameRate": 4,
+            "repeat": -1
+        },
+        {
+            "key": "jump",
+            "type": "frame",
+            "frames": [
+                { "key": "PlayerSprite", "frame": 12 },
+                { "key": "PlayerSprite", "frame": 12 }
+            ], 
+            "frameRate": 4,
+            "repeat": -1
+        },
+        {
+            "key": "jumpUp",
+            "type": "frame",
+            "frames": [
+                { "key": "PlayerSprite", "frame": 13 },
+                { "key": "PlayerSprite", "frame": 13 }
+            ], 
+            "frameRate": 4,
+            "repeat": -1
+        },
+        {
+            "key": "shootingStanding",
+            "type": "frame",
+            "frames": [
+                { "key": "PlayerSprite", "frame": 3 },
+                { "key": "PlayerSprite", "frame": 4 },
+                { "key": "PlayerSprite", "frame": 5 }
+            ], 
+            "frameRate": 4,
+            "repeat": -1
+        },
+        {
+            "key": "right",
+            "type": "frame",
+            "frames": [
+                { "key": "PlayerSprite", "frame": 6 },
+                { "key": "PlayerSprite", "frame": 7 },
+                { "key": "PlayerSprite", "frame": 8 }
+            ], 
+            "frameRate": 8,
+            "repeat": -1
+        },
+        {
+            "key": "mushroomWalk",
+            "type": "frame",
+            "frames": [
+                { "key": "mushroomEnemy", "frame": 0 },
+                { "key": "mushroomEnemy", "frame": 1 },
+                { "key": "mushroomEnemy", "frame": 2 },
+                { "key": "mushroomEnemy", "frame": 3 },
+                { "key": "mushroomEnemy", "frame": 4 },
+                { "key": "mushroomEnemy", "frame": 5 },
+                { "key": "mushroomEnemy", "frame": 6 },
+                { "key": "mushroomEnemy", "frame": 7 }
+            ],
+            "frameRate": 8,
+            "repeat": -1
+        },
+        {
+            "key": "space",
+            "type": "frame",
+            "frames": [
+                { "key": "buttons", "frame": 10 },
+                { "key": "buttons", "frame": 26 }
+            ], 
+            "frameRate": 8,
+            "repeat": -1
+        },
+        {
+            "key": "flagRaiseAnim",
+            "type": "frame",
+            "frames": [
+                { "key": "flagRaise", "frame": 0 },
+                { "key": "flagRaise", "frame": 1 },
+                { "key": "flagRaise", "frame": 2 },
+                { "key": "flagRaise", "frame": 3 },
+                { "key": "flagRaise", "frame": 4 },
+                { "key": "flagRaise", "frame": 5 },
+                { "key": "flagRaise", "frame": 6 },
+                { "key": "flagRaise", "frame": 7 },
+                { "key": "flagRaise", "frame": 8 },
+                { "key": "flagRaise", "frame": 9 },
+                { "key": "flagRaise", "frame": 10 },
+                { "key": "flagRaise", "frame": 11 },
+                { "key": "flagRaise", "frame": 12 },
+                { "key": "flagRaise", "frame": 13 },
+                { "key": "flagRaise", "frame": 14 }
+            ],
+            "frameRate": 12,
+            "repeat": 0
+        },
+        {
+            "key": "flagAnim",
+            "type": "frame",
+            "frames": [
+                { "key": "flag", "frame": 0 },
+                { "key": "flag", "frame": 1 },
+                { "key": "flag", "frame": 2 },
+                { "key": "flag", "frame": 3 },
+                { "key": "flag", "frame": 4 },
+                { "key": "flag", "frame": 5 },
+                { "key": "flag", "frame": 6 },
+                { "key": "flag", "frame": 7 },
+                { "key": "flag", "frame": 8 },
+                { "key": "flag", "frame": 9 },
+                { "key": "flag", "frame": 10 },
+                { "key": "flag", "frame": 11 },
+                { "key": "flag", "frame": 12 },
+                { "key": "flag", "frame": 13 },
+                { "key": "flag", "frame": 14 }
+            ],
+            "frameRate": 8,
+            "repeat": -1
+        },
+        {
+            "key": "coinAnim",
+            "type": "frame",
+            "frames": [
+                { "key": "coin", "frame": 0 },
+                { "key": "coin", "frame": 1 },
+                { "key": "coin", "frame": 2 },
+                { "key": "coin", "frame": 3 },
+                { "key": "coin", "frame": 4 },
+                { "key": "coin", "frame": 5 },
+                { "key": "coin", "frame": 6 },
+                { "key": "coin", "frame": 7 },
+                { "key": "coin", "frame": 8 },
+                { "key": "coin", "frame": 9 },
+                { "key": "coin", "frame": 10 },
+                { "key": "coin", "frame": 11 }
+            ],
+            "frameRate": 8,
+            "repeat": -1
+        },
+        {
+            "key": "miniBatAnim",
+            "type": "frame",
+            "frames": [
+                { "key": "miniBat", "frame": 0 },
+                { "key": "miniBat", "frame": 1 },
+                { "key": "miniBat", "frame": 2 },
+                { "key": "miniBat", "frame": 3 }
+            ],
+            "frameRate": 8,
+            "repeat": -1
+        },
+        {
+            "key": "coinTakenAnim",
+            "type": "frame",
+            "frames": [
+                { "key": "coinTaken", "frame": 45 },
+                { "key": "coinTaken", "frame": 46 },
+                { "key": "coinTaken", "frame": 47 },
+                { "key": "coinTaken", "frame": 48 },
+                { "key": "coinTaken", "frame": 49 },
+                { "key": "coinTaken", "frame": 50 },
+                { "key": "coinTaken", "frame": 51 },
+                { "key": "coinTaken", "frame": 52 },
+                { "key": "coinTaken", "frame": 53 }
+            ],
+            "frameRate": 16,
+            "repeat": -1
+        },
+        {
+            "key": "enemyDestroyedAnim",
+            "type": "frame",
+            "frames": [
+                { "key": "enemyDestroyed", "frame": 116 },
+                { "key": "enemyDestroyed", "frame": 117 },
+                { "key": "enemyDestroyed", "frame": 118 },
+                { "key": "enemyDestroyed", "frame": 119 }
+            ],
+            "frameRate": 8,
+            "repeat": -1
+        }
+    ]
+}
